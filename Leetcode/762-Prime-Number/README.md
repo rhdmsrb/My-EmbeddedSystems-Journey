@@ -3,7 +3,7 @@ Goal: Find the count of numbers in the inclusive range [left,right] that have a 
 - Key Concept: Bit manipulation and prime number identification.
 
 Approach:
-1. Constraints Analysis**: 
+1. Constraints Analysis: 
    - The maximum value of right is 10^6. 
    - Since 2^{20} = 1,048,576, any number in the range will have at most 20 bits as 10^6 = 
 2. Pre-defining Primes:
